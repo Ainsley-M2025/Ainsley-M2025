@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ainsley-M2025
+- 👋 Hi, I’m Ainsley
 - 👀 I’m interested in science, books, and learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing rn
